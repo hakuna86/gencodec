@@ -1,4 +1,4 @@
-module github.com/fjl/gencodec
+module github.com/hakuna86/gencodec
 
 go 1.13
 
